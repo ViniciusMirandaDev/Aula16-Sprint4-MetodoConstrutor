@@ -1,0 +1,13 @@
+C:\Users\amand\Desktop\Projeto senai\Aula16-Sprint4-MetodoConstrutor\bin\Debug\netcoreapp3.1\Aula16-Sprint4-MetodoConstrutor.exe
+C:\Users\amand\Desktop\Projeto senai\Aula16-Sprint4-MetodoConstrutor\bin\Debug\netcoreapp3.1\Aula16-Sprint4-MetodoConstrutor.deps.json
+C:\Users\amand\Desktop\Projeto senai\Aula16-Sprint4-MetodoConstrutor\bin\Debug\netcoreapp3.1\Aula16-Sprint4-MetodoConstrutor.runtimeconfig.json
+C:\Users\amand\Desktop\Projeto senai\Aula16-Sprint4-MetodoConstrutor\bin\Debug\netcoreapp3.1\Aula16-Sprint4-MetodoConstrutor.runtimeconfig.dev.json
+C:\Users\amand\Desktop\Projeto senai\Aula16-Sprint4-MetodoConstrutor\bin\Debug\netcoreapp3.1\Aula16-Sprint4-MetodoConstrutor.dll
+C:\Users\amand\Desktop\Projeto senai\Aula16-Sprint4-MetodoConstrutor\bin\Debug\netcoreapp3.1\Aula16-Sprint4-MetodoConstrutor.pdb
+C:\Users\amand\Desktop\Projeto senai\Aula16-Sprint4-MetodoConstrutor\obj\Debug\netcoreapp3.1\Aula16-Sprint4-MetodoConstrutor.csprojAssemblyReference.cache
+C:\Users\amand\Desktop\Projeto senai\Aula16-Sprint4-MetodoConstrutor\obj\Debug\netcoreapp3.1\Aula16-Sprint4-MetodoConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\amand\Desktop\Projeto senai\Aula16-Sprint4-MetodoConstrutor\obj\Debug\netcoreapp3.1\Aula16-Sprint4-MetodoConstrutor.AssemblyInfoInputs.cache
+C:\Users\amand\Desktop\Projeto senai\Aula16-Sprint4-MetodoConstrutor\obj\Debug\netcoreapp3.1\Aula16-Sprint4-MetodoConstrutor.AssemblyInfo.cs
+C:\Users\amand\Desktop\Projeto senai\Aula16-Sprint4-MetodoConstrutor\obj\Debug\netcoreapp3.1\Aula16-Sprint4-MetodoConstrutor.dll
+C:\Users\amand\Desktop\Projeto senai\Aula16-Sprint4-MetodoConstrutor\obj\Debug\netcoreapp3.1\Aula16-Sprint4-MetodoConstrutor.pdb
+C:\Users\amand\Desktop\Projeto senai\Aula16-Sprint4-MetodoConstrutor\obj\Debug\netcoreapp3.1\Aula16-Sprint4-MetodoConstrutor.genruntimeconfig.cache
